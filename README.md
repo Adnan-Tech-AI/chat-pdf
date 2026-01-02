@@ -22,7 +22,7 @@ The library is intentionally simple and pinned to stable LangChain versions to a
 ## Installation
 
 ```bash
-pip install chat-pdf
+pip install easy-rag-pdf
 ```
 
 ---
